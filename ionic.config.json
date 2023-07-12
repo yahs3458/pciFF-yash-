@@ -1,0 +1,7 @@
+{
+  "name": "pciFF",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
